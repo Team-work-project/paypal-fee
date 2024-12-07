@@ -1,0 +1,7 @@
+SDLC is good using the devops and agile frame works.
+Linux is open sourse
+Scrpting is automation
+git is a DVCS
+Aws is cloud computing provider
+Ec2 is virtual servers in the cloud
+
